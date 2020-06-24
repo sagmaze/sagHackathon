@@ -1,211 +1,81 @@
 iso_code,continent,location
-AFG,Asia,Afghanistan
-ALB,Europe,Albania
 DZA,Africa,Algeria
-AND,Europe,Andorra
-AGO,Africa,Angola
-AIA,North America,Anguilla
-ATG,North America,Antigua and Barbuda
-ARG,South America,Argentina
-ARM,Asia,Armenia
-ABW,North America,Aruba
-AUS,Oceania,Australia
-AUT,Europe,Austria
-AZE,Asia,Azerbaijan
-BHS,North America,Bahamas
+COG,Africa,Congo
+EGY,Africa,Egypt
+KEN,Africa,Kenya
+LBY,Africa,Libya
+MAR,Africa,Morocco
+NAM,Africa,Namibia
+NGA,Africa,Nigeria
+SEN,Africa,Senegal
+ZAF,Africa,South Africa
+SDN,Africa,Sudan
+TZA,Africa,Tanzania
+TUN,Africa,Tunisia
+UGA,Africa,Uganda
+ZWE,Africa,Zimbabwe
+AFG,Asia,Afghanistan
 BHR,Asia,Bahrain
 BGD,Asia,Bangladesh
-BRB,North America,Barbados
-BLR,Europe,Belarus
-BEL,Europe,Belgium
-BLZ,North America,Belize
-BEN,Africa,Benin
-BMU,North America,Bermuda
 BTN,Asia,Bhutan
-BOL,South America,Bolivia
-BES,North America,Bonaire Sint Eustatius and Saba
-BIH,Europe,Bosnia and Herzegovina
-BWA,Africa,Botswana
-BRA,South America,Brazil
-VGB,North America,British Virgin Islands
-BRN,Asia,Brunei
-BGR,Europe,Bulgaria
-BFA,Africa,Burkina Faso
-BDI,Africa,Burundi
 KHM,Asia,Cambodia
-CMR,Africa,Cameroon
-CAN,North America,Canada
-CPV,Africa,Cape Verde
-CYM,North America,Cayman Islands
-CAF,Africa,Central African Republic
-TCD,Africa,Chad
-CHL,South America,Chile
 CHN,Asia,China
-COL,South America,Colombia
-COM,Africa,Comoros
-COG,Africa,Congo
-CRI,North America,Costa Rica
-CIV,Africa,Cote d'Ivoire
-HRV,Europe,Croatia
-CUB,North America,Cuba
-CUW,North America,Curacao
-CYP,Europe,Cyprus
-CZE,Europe,Czech Republic
-COD,Africa,Democratic Republic of Congo
-DNK,Europe,Denmark
-DJI,Africa,Djibouti
-DMA,North America,Dominica
-DOM,North America,Dominican Republic
-ECU,South America,Ecuador
-EGY,Africa,Egypt
-SLV,North America,El Salvador
-GNQ,Africa,Equatorial Guinea
-ERI,Africa,Eritrea
-EST,Europe,Estonia
-ETH,Africa,Ethiopia
-FRO,Europe,Faeroe Islands
-FLK,South America,Falkland Islands
-FJI,Oceania,Fiji
-FIN,Europe,Finland
-FRA,Europe,France
-PYF,Oceania,French Polynesia
-GAB,Africa,Gabon
-GMB,Africa,Gambia
-GEO,Asia,Georgia
-DEU,Europe,Germany
-GHA,Africa,Ghana
-GIB,Europe,Gibraltar
-GRC,Europe,Greece
-GRL,North America,Greenland
-GRD,North America,Grenada
-GUM,Oceania,Guam
-GTM,North America,Guatemala
-GGY,Europe,Guernsey
-GIN,Africa,Guinea
-GNB,Africa,Guinea-Bissau
-GUY,South America,Guyana
-HTI,North America,Haiti
-HND,North America,Honduras
 HKG,Asia,Hong Kong
-HUN,Europe,Hungary
-ISL,Europe,Iceland
 IND,Asia,India
 IDN,Asia,Indonesia
 IRN,Asia,Iran
 IRQ,Asia,Iraq
-IRL,Europe,Ireland
-IMN,Europe,Isle of Man
 ISR,Asia,Israel
-ITA,Europe,Italy
-JAM,North America,Jamaica
 JPN,Asia,Japan
-JEY,Europe,Jersey
-JOR,Asia,Jordan
-KAZ,Asia,Kazakhstan
-KEN,Africa,Kenya
-OWID_KOS,Europe,Kosovo
-KWT,Asia,Kuwait
-KGZ,Asia,Kyrgyzstan
-LAO,Asia,Laos
-LVA,Europe,Latvia
-LBN,Asia,Lebanon
-LSO,Africa,Lesotho
-LBR,Africa,Liberia
-LBY,Africa,Libya
-LIE,Europe,Liechtenstein
-LTU,Europe,Lithuania
-LUX,Europe,Luxembourg
-MKD,Europe,Macedonia
-MDG,Africa,Madagascar
-MWI,Africa,Malawi
 MYS,Asia,Malaysia
-MDV,Asia,Maldives
-MLI,Africa,Mali
-MLT,Europe,Malta
-MRT,Africa,Mauritania
-MUS,Africa,Mauritius
-MEX,North America,Mexico
-MDA,Europe,Moldova
-MCO,Europe,Monaco
-MNG,Asia,Mongolia
-MNE,Europe,Montenegro
-MSR,North America,Montserrat
-MAR,Africa,Morocco
-MOZ,Africa,Mozambique
 MMR,Asia,Myanmar
-NAM,Africa,Namibia
 NPL,Asia,Nepal
-NLD,Europe,Netherlands
+PAK,Asia,Pakistan
+SAU,Asia,Saudi Arabia
+SGP,Asia,Singapore
+KOR,Asia,South Korea
+LKA,Asia,Sri Lanka
+ARE,Asia,United Arab Emirates
+AUS,Oceania,Australia
+FJI,Oceania,Fiji
+PYF,Oceania,French Polynesia
+GUM,Oceania,Guam
 NCL,Oceania,New Caledonia
 NZL,Oceania,New Zealand
-NIC,North America,Nicaragua
-NER,Africa,Niger
-NGA,Africa,Nigeria
 MNP,Oceania,Northern Mariana Islands
-NOR,Europe,Norway
-OMN,Asia,Oman
-PAK,Asia,Pakistan
-PSE,Asia,Palestine
-PAN,North America,Panama
 PNG,Oceania,Papua New Guinea
+AUT,Europe,Austria
+BEL,Europe,Belgium
+HRV,Europe,Croatia
+DNK,Europe,Denmark
+FIN,Europe,Finland
+FRA,Europe,France
+DEU,Europe,Germany
+GRC,Europe,Greece
+ITA,Europe,Italy
+LVA,Europe,Latvia
+NLD,Europe,Netherlands
+PRT,Europe,Portugal
+RUS,Europe,Russia
+ESP,Europe,Spain
+CHE,Europe,Switzerland
+GBR,Europe,United Kingdom
+BMU,North America,Bermuda
+CAN,North America,Canada
+CUB,North America,Cuba
+JAM,North America,Jamaica
+MEX,North America,Mexico
+PAN,North America,Panama
+USA,North America,United States
+ARG,South America,Argentina
+BOL,South America,Bolivia
+BRA,South America,Brazil
+CHL,South America,Chile
+COL,South America,Colombia
+ECU,South America,Ecuador
+GUY,South America,Guyana
 PRY,South America,Paraguay
 PER,South America,Peru
-PHL,Asia,Philippines
-POL,Europe,Poland
-PRT,Europe,Portugal
-PRI,North America,Puerto Rico
-QAT,Asia,Qatar
-ROU,Europe,Romania
-RUS,Europe,Russia
-RWA,Africa,Rwanda
-KNA,North America,Saint Kitts and Nevis
-LCA,North America,Saint Lucia
-VCT,North America,Saint Vincent and the Grenadines
-SMR,Europe,San Marino
-STP,Africa,Sao Tome and Principe
-SAU,Asia,Saudi Arabia
-SEN,Africa,Senegal
-SRB,Europe,Serbia
-SYC,Africa,Seychelles
-SLE,Africa,Sierra Leone
-SGP,Asia,Singapore
-SXM,North America,Sint Maarten (Dutch part)
-SVK,Europe,Slovakia
-SVN,Europe,Slovenia
-SOM,Africa,Somalia
-ZAF,Africa,South Africa
-KOR,Asia,South Korea
-SSD,Africa,South Sudan
-ESP,Europe,Spain
-LKA,Asia,Sri Lanka
-SDN,Africa,Sudan
 SUR,South America,Suriname
-SWZ,Africa,Swaziland
-SWE,Europe,Sweden
-CHE,Europe,Switzerland
-SYR,Asia,Syria
-TWN,Asia,Taiwan
-TJK,Asia,Tajikistan
-TZA,Africa,Tanzania
-THA,Asia,Thailand
-TLS,Asia,Timor
-TGO,Africa,Togo
-TTO,North America,Trinidad and Tobago
-TUN,Africa,Tunisia
-TUR,Asia,Turkey
-TCA,North America,Turks and Caicos Islands
-UGA,Africa,Uganda
-UKR,Europe,Ukraine
-ARE,Asia,United Arab Emirates
-GBR,Europe,United Kingdom
-USA,North America,United States
-VIR,North America,United States Virgin Islands
 URY,South America,Uruguay
-UZB,Asia,Uzbekistan
-VAT,Europe,Vatican
 VEN,South America,Venezuela
-VNM,Asia,Vietnam
-ESH,Africa,Western Sahara
-YEM,Asia,Yemen
-ZMB,Africa,Zambia
-ZWE,Africa,Zimbabwe
